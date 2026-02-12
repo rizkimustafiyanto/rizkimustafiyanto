@@ -4,7 +4,7 @@
 ### <div align="center">I'm Rizk'Murf, a full-time full-stack freelance developer 👨‍💻 working remotely since 2017 🚀</div>  
 <br/>
 
-- 🔭 Currently building awesome things at [Persada Solusi Data](https://persada-group.com/psd/)  
+- 🔭 Currently building awesome things at [NEXMEDIS](https://nexmedis.com/)  
   
 
 - 👯 Open to collaborating on VEP & VENN projects
