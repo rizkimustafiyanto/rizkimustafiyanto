@@ -4,7 +4,7 @@
 ### <div align="center">I'm Rizk'Murf, a full-time full-stack freelance developer 👨‍💻 working remotely since 2017 🚀</div>  
 <br/>
 
-- 🔭 Currently building awesome things at [NEXMEDIS](https://nexmedis.com/)  
+- 🔭 Currently building awesome things at home  
   
 
 - 👯 Open to collaborating on VEP & VENN projects
