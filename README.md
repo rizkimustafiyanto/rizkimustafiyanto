@@ -75,7 +75,41 @@
 </td></tr></table>  
 </div>  
 
-<br/>  
+<br/>
+
+## 🚀 Featured Projects
+
+<div align="center">
+
+<a href="https://zyramuz.site" target="_blank">
+  <img src="https://img.shields.io/badge/LIVE-DEMO-success?style=for-the-badge" />
+</a>
+
+<br/>
+
+</div>
+
+### 🌐 Zyramuz Site
+
+A modern full-stack web platform focused on scalable architecture, clean UI, and efficient dashboard management.
+
+### ⚙️ Built With
+![Vue](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
+![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+
+### ✨ Key Features
+- Secure authentication & authorization
+- Dynamic dashboard system
+- Reusable UI component architecture
+- RESTful API integration
+- Responsive mobile-first design
+- Dark mode support
+
+### 🔗 Project Links
+- 🌍 Live Website: https://zyramuz.site
 
 
 ## Connect with me  
