@@ -4,12 +4,14 @@
 
 I'm a **Full-Stack Developer** focused on building scalable, maintainable, and production-ready web applications.
 
-I enjoy working across the entire stack — from responsive frontend interfaces and REST APIs to database architecture, containerization, and deployment.
+I enjoy working across the entire stack from responsive frontend interfaces and REST APIs to database architecture, containerization, and deployment.
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Theme-Tokyo%20Night-7aa2f7?style=for-the-badge&logo=github&logoColor=c0caf5&labelColor=1a1b26" />
-  <img src="https://img.shields.io/badge/Focus-Full--Stack-bb9af7?style=for-the-badge&logo=code&logoColor=c0caf5&labelColor=1a1b26" />
+  🌙 <strong>Tokyo Night</strong>
+  &nbsp;&nbsp;•&nbsp;&nbsp;
+  🚀 <strong>Full-Stack Developer</strong>
 </p>
+
 
 ```text
 Frontend  → React / Next.js / Vue / Nuxt.js
@@ -79,10 +81,22 @@ A modern full-stack web platform focused on scalable architecture, clean UI, and
 
 #### 🔗 Project
 
-<p>
-  <a href="https://zyramuz.site">
-    <img src="https://img.shields.io/badge/Live%20Website-7aa2f7?style=for-the-badge&logo=google-chrome&logoColor=c0caf5&labelColor=1a1b26" alt="Zyramuz Live Website" />
+<p align="center">
+  <a href="https://zyramuz.site" title="Visit Zyramuz">
+    <img
+      src="https://skillicons.dev/icons?i=nuxtjs"
+      width="42"
+      alt="Zyramuz"
+    />
   </a>
+</p>
+
+<p align="center">
+  <strong>MLS</strong>
+  <br />
+  <sub>Modern Full-Stack Web Platform</sub>
+  <br /><br />
+  <a href="https://zyramuz.site">🌐 Visit Website →</a>
 </p>
 
 ---
@@ -91,23 +105,18 @@ A modern full-stack web platform focused on scalable architecture, clean UI, and
 
 <p align="center">
   <img
-    src="https://raw.githubusercontent.com/rizkimustafiyanto/rizkimustafiyanto/output/github-stats.svg"
-    alt="GitHub Stats"
-    height="170"
-  />
-  <img
     src="https://raw.githubusercontent.com/rizkimustafiyanto/rizkimustafiyanto/output/github-streak.svg"
     alt="GitHub Streak"
     height="170"
   />
-</p>
-
-<p align="center">
   <img
     src="https://raw.githubusercontent.com/rizkimustafiyanto/rizkimustafiyanto/output/top-languages.svg"
     alt="Top Languages"
     height="170"
   />
+</p>
+
+<p align="center">
 </p>
 
 ---
@@ -125,40 +134,52 @@ A modern full-stack web platform focused on scalable architecture, clean UI, and
 
 ## 📌 Current Focus
 
+### 🧩 Frontend
+
 <p align="center">
-  <a href="https://www.typescriptlang.org/" title="TypeScript">
-    <img src="https://skillicons.dev/icons?i=typescript" width="48" alt="TypeScript" />
-  </a>
-  <a href="https://nodejs.org/" title="Node.js">
-    <img src="https://skillicons.dev/icons?i=nodejs" width="48" alt="Node.js" />
-  </a>
-  <a href="https://react.dev/" title="React">
-    <img src="https://skillicons.dev/icons?i=react" width="48" alt="React" />
-  </a>
-  <a href="https://nextjs.org/" title="Next.js">
-    <img src="https://skillicons.dev/icons?i=nextjs" width="48" alt="Next.js" />
-  </a>
-  <a href="https://vuejs.org/" title="Vue.js">
-    <img src="https://skillicons.dev/icons?i=vue" width="48" alt="Vue.js" />
-  </a>
-  <a href="https://nuxt.com/" title="Nuxt.js">
-    <img src="https://skillicons.dev/icons?i=nuxtjs" width="48" alt="Nuxt.js" />
-  </a>
-  <a href="https://go.dev/" title="Go">
-    <img src="https://skillicons.dev/icons?i=go" width="48" alt="Go" />
-  </a>
-  <a href="https://www.postgresql.org/" title="PostgreSQL">
-    <img src="https://skillicons.dev/icons?i=postgresql" width="48" alt="PostgreSQL" />
-  </a>
-  <a href="https://www.prisma.io/" title="Prisma">
-    <img src="https://skillicons.dev/icons?i=prisma" width="48" alt="Prisma" />
-  </a>
-  <a href="https://www.docker.com/" title="Docker">
-    <img src="https://skillicons.dev/icons?i=docker" width="48" alt="Docker" />
-  </a>
-  <a href="https://git-scm.com/" title="Git">
-    <img src="https://skillicons.dev/icons?i=git" width="48" alt="Git" />
-  </a>
+    <img src="https://skillicons.dev/icons?i=typescript" width="40" alt="TypeScript" style="vertical-align:middle;" />
+  &nbsp;&nbsp;
+    <img src="https://skillicons.dev/icons?i=react" width="40" alt="React" style="vertical-align:middle;" />
+  &nbsp;&nbsp;
+    <img src="https://skillicons.dev/icons?i=nextjs" width="40" alt="Next.js" style="vertical-align:middle;" />
+  &nbsp;&nbsp;
+    <img src="https://skillicons.dev/icons?i=vue" width="40" alt="Vue.js" style="vertical-align:middle;" />
+  &nbsp;&nbsp;
+    <img src="https://skillicons.dev/icons?i=nuxtjs" width="40" alt="Nuxt.js" style="vertical-align:middle;" />
+</p>
+
+### ⚙️ Backend
+
+<p align="center">
+    <img src="https://skillicons.dev/icons?i=nodejs" width="40" alt="Node.js" style="vertical-align:middle;" />
+  &nbsp;&nbsp;
+    <img src="https://skillicons.dev/icons?i=go" width="40" alt="Go" style="vertical-align:middle;" />
+  &nbsp;&nbsp;
+    <img src="https://skillicons.dev/icons?i=laravel" width="40" alt="Laravel" style="vertical-align:middle;" />
+  &nbsp;&nbsp;
+    <img src="https://skillicons.dev/icons?i=express" width="40" alt="Express.js" style="vertical-align:middle;" />
+</p>
+
+### 🗄️ Database & ORM
+
+<p align="center">
+    <img src="https://skillicons.dev/icons?i=postgresql" width="40" alt="PostgreSQL" style="vertical-align:middle;" />
+  &nbsp;&nbsp;
+    <img src="https://skillicons.dev/icons?i=mysql" width="40" alt="MySQL" style="vertical-align:middle;" />
+  &nbsp;&nbsp;
+    <img src="https://skillicons.dev/icons?i=prisma" width="40" alt="Prisma" style="vertical-align:middle;" />
+</p>
+
+### 🐳 DevOps & Tools
+
+<p align="center">
+    <img src="https://skillicons.dev/icons?i=docker" width="40" alt="Docker" style="vertical-align:middle;" />
+  &nbsp;&nbsp;
+    <img src="https://skillicons.dev/icons?i=git" width="40" alt="Git" style="vertical-align:middle;" />
+  &nbsp;&nbsp;
+    <img src="https://skillicons.dev/icons?i=githubactions" width="40" alt="GitHub Actions" style="vertical-align:middle;" />
+  &nbsp;&nbsp;
+    <img src="https://skillicons.dev/icons?i=vscode" width="40" alt="Visual Studio Code" style="vertical-align:middle;" />
 </p>
 
 ---
@@ -168,10 +189,10 @@ A modern full-stack web platform focused on scalable architecture, clean UI, and
 If you find my projects useful and would like to support my work:
 
 <p align="center">
-  <a href="https://www.paypal.me/YOUR_PAYPAL_USERNAME" title="Support me via PayPal">
+  <a href="https://www.paypal.me/RizkiMustafiyanto" title="Support me via PayPal">
     <img
-      src="https://cdn.simpleicons.org/paypal/003087"
-      width="48"
+      src="https://cdn.simpleicons.org/paypal"
+      width="18"
       alt="PayPal"
     />
   </a>
@@ -182,17 +203,16 @@ If you find my projects useful and would like to support my work:
 ## 🤝 Let's Connect
 
 <p align="center">
-  <a href="https://github.com/rizkimustafiyanto" title="GitHub">
-    <img
-      src="https://cdn.simpleicons.org/github/c0caf5"
-      width="48"
-      alt="GitHub"
-    />
-  </a>
+  <img
+    src="https://cdn.simpleicons.org/github/c0caf5"
+    width="18"
+    alt="GitHub"
+  />
+  &nbsp;&nbsp;&nbsp;
   <a href="https://zyramuz.site" title="Website">
     <img
-      src="https://cdn.simpleicons.org/googlechrome/7aa2f7"
-      width="48"
+      src="https://cdn.simpleicons.org/googlechrome"
+      width="18"
       alt="Website"
     />
   </a>
