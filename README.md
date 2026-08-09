@@ -1,163 +1,169 @@
-#### Welcome to my profile 👋
-## Hi there 👋
+# 👋 Hi, I'm Rizki
 
-### <div align="center">I'm Rizk'Murf, a full-time full-stack freelance developer 👨‍💻 working remotely since 2017 🚀</div>  
-<br/>
+### 🚀 Full-Stack Developer
 
-- 🔭 Currently building awesome things at home  
-  
+I'm a **Full-Stack Developer** focused on building scalable, maintainable, and production-ready web applications.
 
-- 👯 Open to collaborating on VEP & VENN projects
+I enjoy working across the entire stack — from responsive frontend interfaces and REST APIs to database architecture, containerization, and deployment.
 
+```text
+Frontend  → React / Next.js / Vue / Nuxt.js
+Backend   → Node.js / TypeScript / Go / Laravel
+Database  → PostgreSQL / MySQL / Prisma
+DevOps    → Docker / Git / GitHub Actions
+```
 
-- 🌱 Learning VENN (FE & BE) every day
-  
+---
 
-- ❓ 💬 Ask me anything about the VENN stack
-  
+## 🧑‍💻 About Me
 
-- ⚡ Fun fact: I’m a dark mode enthusiast even my mug agrees 😄☕
-  
+* 🔭 Building and experimenting with full-stack applications
+* 🌱 Continuously learning modern web technologies and backend architecture
+* ⚙️ Interested in scalable backend systems and clean architecture
+* 🐳 Working with Docker-based development environments
+* 🗄️ Enjoy designing relational databases and APIs
+* 💡 Always looking for better ways to build clean and maintainable software
 
-<br/>  
+---
 
+## 🛠️ Tech Stack
 
-## My Skill Set  
-<div align="center">  
-<table><tr><td valign="top" width="33%">
+### Frontend
 
+<p>
+  <img src="https://skillicons.dev/icons?i=typescript,javascript,react,nextjs,vue,nuxtjs,html,css,tailwind" alt="Frontend Technologies" />
+</p>
 
+### Backend
 
-### Frontend  
-<div align="center">  
-<a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
-<a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" /></a>  
-<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
-<a href="https://www.php.net/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="50" /></a>  
-<a href="https://www.tailwindcss.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="50" /></a>  
-<a href="https://www.chartjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/logo-title.svg" alt="Chart.js" height="50" /></a>  
-<a href="https://vuejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/vuejs-original-wordmark.svg" alt="Vue.js" height="50" /></a>
-<a href="https://jquery.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jquery.png" alt="jQuery" height="50" /></a>  
-</div>
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,go,laravel" alt="Backend Technologies" />
+</p>
 
-</td><td valign="top" width="33%">
+### Database & ORM
 
+<p>
+  <img src="https://skillicons.dev/icons?i=postgresql,mysql,prisma" alt="Database Technologies" />
+</p>
 
+### DevOps & Tools
 
-### Backend  
-<div align="center">  
-<a href="https://www.php.net/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="50" /></a>
-<a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>  
-<a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" /></a>  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
-<a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" /></a>  
-<a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a> 
-<a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" /></a> 
-</div>
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,git,github,githubactions,linux,vscode" alt="DevOps and Tools" />
+</p>
 
-</td><td valign="top" width="33%">
+---
 
+## 🚀 Featured Project
 
-
-### DevOps  
-<div align="center">  
-<a href="https://aws.amazon.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" /></a>  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
-<a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" /></a>  
-<a href="https://www.cordova.apache.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cordova.png" alt="Cordova" height="50" /></a>  
-<a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" /></a>  
-<a href="https://www.apachefriends.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/xampp.png" alt="XAMPP" height="50" /></a>  
-<a href="https://cloud.google.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/google_cloud-icon.svg" alt="GCP" height="50" /></a>  
-</div>
-
-
-</td></tr></table>  
-</div>  
-
-<br/>
-
-## 🚀 Featured Projects
-
-<div align="center">
-
-<a href="https://zyramuz.site" target="_blank">
-  <img src="https://img.shields.io/badge/LIVE-DEMO-success?style=for-the-badge" />
-</a>
-
-<br/>
-
-</div>
-
-### 🌐 Zyramuz Site
+### 🌐 Zyramuz
 
 A modern full-stack web platform focused on scalable architecture, clean UI, and efficient dashboard management.
 
-### ⚙️ Built With
-![Vue](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
-![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+#### Highlights
 
-### ✨ Key Features
-- Secure authentication & authorization
-- Dynamic dashboard system
-- Reusable UI component architecture
-- RESTful API integration
-- Responsive mobile-first design
-- Dark mode support
+* 🔐 Authentication & authorization
+* 📊 Dynamic dashboard system
+* 🧩 Reusable UI component architecture
+* 🔌 RESTful API integration
+* 📱 Responsive mobile-first interface
+* 🌙 Dark mode support
+* 🗄️ PostgreSQL database
+* ⚙️ Prisma ORM
+* 🐳 Docker-based development
 
-### 🔗 Project Links
-- 🌍 Live Website: https://zyramuz.site
+#### 🔗 Project
 
+🌍 **Live Website:** https://zyramuz.site
 
-## Connect with me  
-<div align="center">
-<a href="https://github.com/rizkimustafiyanto" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/rizki-mustafiyanto-1a0b66157" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-<a href="https://instagram.com/riki_mrm" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>  
-</div>  
-  
+---
 
-<br/>  
+## 📊 GitHub Stats
 
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=rizkimustafiyanto&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"
+    alt="Rizki's GitHub Stats"
+    height="170"
+  />
+  <img
+    src="https://github-readme-streak-stats-eight.vercel.app/?user=rizkimustafiyanto&theme=tokyonight&hide_border=true"
+    alt="Rizki's GitHub Streak"
+    height="170"
+  />
+</p>
 
-## Github Stats  
-<div align="center">
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=rizkimustafiyanto&layout=compact&theme=tokyonight&hide_border=true"
+    alt="Rizki's Top Languages"
+  />
+</p>
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=rizkimustafiyanto&show_icons=true&theme=dark" />
+---
 
-</div>
+## 🐍 Contribution Graph
 
-<br/>  
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/rizkimustafiyanto/rizkimustafiyanto/output/github-contribution-grid-snake.svg"
+    alt="GitHub Contribution Snake"
+  />
+</p>
 
+---
 
-## Recent Blog Posts  
+## 📌 Current Focus
 
-<br/>  
+* 🟦 TypeScript & Node.js
+* ⚛️ React & Next.js
+* 🟢 Vue & Nuxt.js
+* 🐹 Golang
+* 🐘 PostgreSQL & Prisma
+* 🐳 Docker & containerized development
+* 🔄 API design & backend architecture
+* 🚀 Production-ready application development
 
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=rizkimustafiyanto&&style=flat-square" align="center" />
-</div>  
-  
+---
 
-<br/>  
+## 💳 Support My Work
 
-<div align="center">
-            <a href="https://paypal.me/RizkiMustafiyanto" target="_blank" style="display: inline-block;">
-                <img
-                    src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" 
-                    align="center"
-                />
-            </a></div>
-<br />
+If you find my projects useful and would like to support my work:
 
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+<p align="center">
+  <a href="https://www.paypal.me/RizkiMustafiyanto">
+    <img
+      src="https://img.shields.io/badge/PayPal-Support%20My%20Work-0070BA?style=for-the-badge&logo=paypal&logoColor=white"
+      alt="Support me on PayPal"
+    />
+  </a>
+</p>
+
+---
+
+## 🤝 Let's Connect
+
+<p align="center">
+  <a href="https://github.com/rizkimustafiyanto">
+    <img
+      src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"
+      alt="GitHub"
+    />
+  </a>
+  <a href="https://zyramuz.site">
+    <img
+      src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=google-chrome&logoColor=white"
+      alt="Website"
+    />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <i>"Build it. Break it. Learn from it. Build it better."</i>
+</p>
+
+<p align="center">
+  ⭐ Thanks for visiting my profile!
+</p>
