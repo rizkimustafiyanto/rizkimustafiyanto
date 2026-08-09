@@ -6,6 +6,11 @@ I'm a **Full-Stack Developer** focused on building scalable, maintainable, and p
 
 I enjoy working across the entire stack — from responsive frontend interfaces and REST APIs to database architecture, containerization, and deployment.
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Theme-Tokyo%20Night-7aa2f7?style=for-the-badge&logo=github&logoColor=c0caf5&labelColor=1a1b26" />
+  <img src="https://img.shields.io/badge/Focus-Full--Stack-bb9af7?style=for-the-badge&logo=code&logoColor=c0caf5&labelColor=1a1b26" />
+</p>
+
 ```text
 Frontend  → React / Next.js / Vue / Nuxt.js
 Backend   → Node.js / TypeScript / Go / Laravel
@@ -60,7 +65,7 @@ DevOps    → Docker / Git / GitHub Actions
 
 A modern full-stack web platform focused on scalable architecture, clean UI, and efficient dashboard management.
 
-#### Highlights
+#### ✨ Highlights
 
 * 🔐 Authentication & authorization
 * 📊 Dynamic dashboard system
@@ -74,7 +79,11 @@ A modern full-stack web platform focused on scalable architecture, clean UI, and
 
 #### 🔗 Project
 
-🌍 **Live Website:** https://zyramuz.site
+<p>
+  <a href="https://zyramuz.site">
+    <img src="https://img.shields.io/badge/Live%20Website-7aa2f7?style=for-the-badge&logo=google-chrome&logoColor=c0caf5&labelColor=1a1b26" alt="Zyramuz Live Website" />
+  </a>
+</p>
 
 ---
 
@@ -82,21 +91,22 @@ A modern full-stack web platform focused on scalable architecture, clean UI, and
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=rizkimustafiyanto&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"
-    alt="Rizki's GitHub Stats"
+    src="https://raw.githubusercontent.com/rizkimustafiyanto/rizkimustafiyanto/output/github-stats.svg"
+    alt="GitHub Stats"
     height="170"
   />
   <img
-    src="https://github-readme-streak-stats-eight.vercel.app/?user=rizkimustafiyanto&theme=tokyonight&hide_border=true"
-    alt="Rizki's GitHub Streak"
+    src="https://raw.githubusercontent.com/rizkimustafiyanto/rizkimustafiyanto/output/github-streak.svg"
+    alt="GitHub Streak"
     height="170"
   />
 </p>
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=rizkimustafiyanto&layout=compact&theme=tokyonight&hide_border=true"
-    alt="Rizki's Top Languages"
+    src="https://raw.githubusercontent.com/rizkimustafiyanto/rizkimustafiyanto/output/top-languages.svg"
+    alt="Top Languages"
+    height="170"
   />
 </p>
 
@@ -106,7 +116,7 @@ A modern full-stack web platform focused on scalable architecture, clean UI, and
 
 <p align="center">
   <img
-    src="https://raw.githubusercontent.com/rizkimustafiyanto/rizkimustafiyanto/output/github-contribution-grid-snake.svg"
+    src="https://raw.githubusercontent.com/rizkimustafiyanto/rizkimustafiyanto/output/github-contribution-grid-snake-dark.svg"
     alt="GitHub Contribution Snake"
   />
 </p>
@@ -115,14 +125,26 @@ A modern full-stack web platform focused on scalable architecture, clean UI, and
 
 ## 📌 Current Focus
 
-* 🟦 TypeScript & Node.js
-* ⚛️ React & Next.js
-* 🟢 Vue & Nuxt.js
-* 🐹 Golang
-* 🐘 PostgreSQL & Prisma
-* 🐳 Docker & containerized development
-* 🔄 API design & backend architecture
-* 🚀 Production-ready application development
+<p align="center">
+  <img src="https://img.shields.io/badge/TypeScript-7aa2f7?style=for-the-badge&logo=typescript&logoColor=c0caf5&labelColor=1a1b26" />
+  <img src="https://img.shields.io/badge/Node.js-9ece6a?style=for-the-badge&logo=node.js&logoColor=c0caf5&labelColor=1a1b26" />
+  <img src="https://img.shields.io/badge/React-7dcfff?style=for-the-badge&logo=react&logoColor=1a1b26&labelColor=1a1b26" />
+  <img src="https://img.shields.io/badge/Next.js-c0caf5?style=for-the-badge&logo=next.js&logoColor=1a1b26&labelColor=1a1b26" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Vue-9ece6a?style=for-the-badge&logo=vue.js&logoColor=c0caf5&labelColor=1a1b26" />
+  <img src="https://img.shields.io/badge/Nuxt.js-9ece6a?style=for-the-badge&logo=nuxt.js&logoColor=c0caf5&labelColor=1a1b26" />
+  <img src="https://img.shields.io/badge/Golang-7dcfff?style=for-the-badge&logo=go&logoColor=1a1b26&labelColor=1a1b26" />
+  <img src="https://img.shields.io/badge/PostgreSQL-7aa2f7?style=for-the-badge&logo=postgresql&logoColor=c0caf5&labelColor=1a1b26" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Prisma-bb9af7?style=for-the-badge&logo=prisma&logoColor=c0caf5&labelColor=1a1b26" />
+  <img src="https://img.shields.io/badge/Docker-7dcfff?style=for-the-badge&logo=docker&logoColor=1a1b26&labelColor=1a1b26" />
+  <img src="https://img.shields.io/badge/Git-ff9e64?style=for-the-badge&logo=git&logoColor=1a1b26&labelColor=1a1b26" />
+  <img src="https://img.shields.io/badge/API%20Architecture-bb9af7?style=for-the-badge&logo=fastapi&logoColor=c0caf5&labelColor=1a1b26" />
+</p>
 
 ---
 
@@ -133,8 +155,8 @@ If you find my projects useful and would like to support my work:
 <p align="center">
   <a href="https://www.paypal.me/RizkiMustafiyanto">
     <img
-      src="https://img.shields.io/badge/PayPal-Support%20My%20Work-0070BA?style=for-the-badge&logo=paypal&logoColor=white"
-      alt="Support me on PayPal"
+      src="https://img.shields.io/badge/Support%20via%20PayPal-7aa2f7?style=for-the-badge&logo=paypal&logoColor=c0caf5&labelColor=1a1b26"
+      alt="Support via PayPal"
     />
   </a>
 </p>
@@ -146,13 +168,14 @@ If you find my projects useful and would like to support my work:
 <p align="center">
   <a href="https://github.com/rizkimustafiyanto">
     <img
-      src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"
+      src="https://img.shields.io/badge/GitHub-c0caf5?style=for-the-badge&logo=github&logoColor=c0caf5&labelColor=1a1b26"
       alt="GitHub"
     />
   </a>
+
   <a href="https://zyramuz.site">
     <img
-      src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=google-chrome&logoColor=white"
+      src="https://img.shields.io/badge/Website-7aa2f7?style=for-the-badge&logo=google-chrome&logoColor=c0caf5&labelColor=1a1b26"
       alt="Website"
     />
   </a>
@@ -161,7 +184,11 @@ If you find my projects useful and would like to support my work:
 ---
 
 <p align="center">
-  <i>"Build it. Break it. Learn from it. Build it better."</i>
+  <img src="https://img.shields.io/badge/Tokyo%20Night-1a1b26?style=for-the-badge&logo=github&logoColor=c0caf5" />
+</p>
+
+<p align="center">
+  <i>Build it. Break it. Learn from it. Build it better.</i>
 </p>
 
 <p align="center">

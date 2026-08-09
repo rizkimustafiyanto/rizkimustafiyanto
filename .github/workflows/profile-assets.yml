@@ -15,14 +15,23 @@ jobs:
 
     steps:
       # ==========================================
-      # Checkout repository
+      # Checkout
       # ==========================================
 
       - name: Checkout
-        uses: actions/checkout@v6
+        uses: actions/checkout@v4
 
       # ==========================================
-      # Generate Contribution Snake
+      # Prepare output directory
+      # ==========================================
+
+      - name: Prepare output directory
+        run: |
+          rm -rf dist
+          mkdir -p dist
+
+      # ==========================================
+      # Contribution Snake
       # ==========================================
 
       - name: Generate Contribution Snake
@@ -30,23 +39,23 @@ jobs:
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake.svg?palette=github-dark
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
       # ==========================================
-      # Generate GitHub Stats
+      # GitHub Stats
       # ==========================================
 
       - name: Generate GitHub Stats
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: stats
-          options: username=${{ github.repository_owner }}&show_icons=true&theme=tokyonight&hide_border=true&count_private=true
+          options: username=${{ github.repository_owner }}&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true
           path: dist/github-stats.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
       # ==========================================
-      # Generate Top Languages
+      # Top Languages
       # ==========================================
 
       - name: Generate Top Languages
@@ -58,7 +67,26 @@ jobs:
           token: ${{ secrets.GITHUB_TOKEN }}
 
       # ==========================================
-      # Deploy everything to output branch
+      # GitHub Streak
+      # ==========================================
+
+      - name: Generate GitHub Streak
+        run: |
+          curl -L \
+            "https://github-readme-streak-stats-eight.vercel.app/?user=${{ github.repository_owner }}&theme=tokyonight&hide_border=true&mode=weekly" \
+            -o dist/github-streak.svg
+
+      # ==========================================
+      # Verify generated files
+      # ==========================================
+
+      - name: Verify generated files
+        run: |
+          echo "Generated profile assets:"
+          ls -lah dist
+
+      # ==========================================
+      # Deploy
       # ==========================================
 
       - name: Deploy Profile Assets
