@@ -126,24 +126,39 @@ A modern full-stack web platform focused on scalable architecture, clean UI, and
 ## 📌 Current Focus
 
 <p align="center">
-  <img src="https://img.shields.io/badge/TypeScript-7aa2f7?style=for-the-badge&logo=typescript&logoColor=c0caf5&labelColor=1a1b26" />
-  <img src="https://img.shields.io/badge/Node.js-9ece6a?style=for-the-badge&logo=node.js&logoColor=c0caf5&labelColor=1a1b26" />
-  <img src="https://img.shields.io/badge/React-7dcfff?style=for-the-badge&logo=react&logoColor=1a1b26&labelColor=1a1b26" />
-  <img src="https://img.shields.io/badge/Next.js-c0caf5?style=for-the-badge&logo=next.js&logoColor=1a1b26&labelColor=1a1b26" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Vue-9ece6a?style=for-the-badge&logo=vue.js&logoColor=c0caf5&labelColor=1a1b26" />
-  <img src="https://img.shields.io/badge/Nuxt.js-9ece6a?style=for-the-badge&logo=nuxt.js&logoColor=c0caf5&labelColor=1a1b26" />
-  <img src="https://img.shields.io/badge/Golang-7dcfff?style=for-the-badge&logo=go&logoColor=1a1b26&labelColor=1a1b26" />
-  <img src="https://img.shields.io/badge/PostgreSQL-7aa2f7?style=for-the-badge&logo=postgresql&logoColor=c0caf5&labelColor=1a1b26" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Prisma-bb9af7?style=for-the-badge&logo=prisma&logoColor=c0caf5&labelColor=1a1b26" />
-  <img src="https://img.shields.io/badge/Docker-7dcfff?style=for-the-badge&logo=docker&logoColor=1a1b26&labelColor=1a1b26" />
-  <img src="https://img.shields.io/badge/Git-ff9e64?style=for-the-badge&logo=git&logoColor=1a1b26&labelColor=1a1b26" />
-  <img src="https://img.shields.io/badge/API%20Architecture-bb9af7?style=for-the-badge&logo=fastapi&logoColor=c0caf5&labelColor=1a1b26" />
+  <a href="https://www.typescriptlang.org/" title="TypeScript">
+    <img src="https://skillicons.dev/icons?i=typescript" width="48" alt="TypeScript" />
+  </a>
+  <a href="https://nodejs.org/" title="Node.js">
+    <img src="https://skillicons.dev/icons?i=nodejs" width="48" alt="Node.js" />
+  </a>
+  <a href="https://react.dev/" title="React">
+    <img src="https://skillicons.dev/icons?i=react" width="48" alt="React" />
+  </a>
+  <a href="https://nextjs.org/" title="Next.js">
+    <img src="https://skillicons.dev/icons?i=nextjs" width="48" alt="Next.js" />
+  </a>
+  <a href="https://vuejs.org/" title="Vue.js">
+    <img src="https://skillicons.dev/icons?i=vue" width="48" alt="Vue.js" />
+  </a>
+  <a href="https://nuxt.com/" title="Nuxt.js">
+    <img src="https://skillicons.dev/icons?i=nuxtjs" width="48" alt="Nuxt.js" />
+  </a>
+  <a href="https://go.dev/" title="Go">
+    <img src="https://skillicons.dev/icons?i=go" width="48" alt="Go" />
+  </a>
+  <a href="https://www.postgresql.org/" title="PostgreSQL">
+    <img src="https://skillicons.dev/icons?i=postgresql" width="48" alt="PostgreSQL" />
+  </a>
+  <a href="https://www.prisma.io/" title="Prisma">
+    <img src="https://skillicons.dev/icons?i=prisma" width="48" alt="Prisma" />
+  </a>
+  <a href="https://www.docker.com/" title="Docker">
+    <img src="https://skillicons.dev/icons?i=docker" width="48" alt="Docker" />
+  </a>
+  <a href="https://git-scm.com/" title="Git">
+    <img src="https://skillicons.dev/icons?i=git" width="48" alt="Git" />
+  </a>
 </p>
 
 ---
@@ -153,10 +168,11 @@ A modern full-stack web platform focused on scalable architecture, clean UI, and
 If you find my projects useful and would like to support my work:
 
 <p align="center">
-  <a href="https://www.paypal.me/RizkiMustafiyanto">
+  <a href="https://www.paypal.me/YOUR_PAYPAL_USERNAME" title="Support me via PayPal">
     <img
-      src="https://img.shields.io/badge/Support%20via%20PayPal-7aa2f7?style=for-the-badge&logo=paypal&logoColor=c0caf5&labelColor=1a1b26"
-      alt="Support via PayPal"
+      src="https://cdn.simpleicons.org/paypal/003087"
+      width="48"
+      alt="PayPal"
     />
   </a>
 </p>
@@ -166,16 +182,17 @@ If you find my projects useful and would like to support my work:
 ## 🤝 Let's Connect
 
 <p align="center">
-  <a href="https://github.com/rizkimustafiyanto">
+  <a href="https://github.com/rizkimustafiyanto" title="GitHub">
     <img
-      src="https://img.shields.io/badge/GitHub-c0caf5?style=for-the-badge&logo=github&logoColor=c0caf5&labelColor=1a1b26"
+      src="https://cdn.simpleicons.org/github/c0caf5"
+      width="48"
       alt="GitHub"
     />
   </a>
-
-  <a href="https://zyramuz.site">
+  <a href="https://zyramuz.site" title="Website">
     <img
-      src="https://img.shields.io/badge/Website-7aa2f7?style=for-the-badge&logo=google-chrome&logoColor=c0caf5&labelColor=1a1b26"
+      src="https://cdn.simpleicons.org/googlechrome/7aa2f7"
+      width="48"
       alt="Website"
     />
   </a>
@@ -183,14 +200,4 @@ If you find my projects useful and would like to support my work:
 
 ---
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Tokyo%20Night-1a1b26?style=for-the-badge&logo=github&logoColor=c0caf5" />
-</p>
-
-<p align="center">
-  <i>Build it. Break it. Learn from it. Build it better.</i>
-</p>
-
-<p align="center">
-  ⭐ Thanks for visiting my profile!
-</p>
+<p align="center"> <i>Build it. Break it. Learn from it. Build it better.</i> </p> <p align="center"> ⭐ Thanks for visiting my profile! </p>
