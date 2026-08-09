@@ -1,0 +1,70 @@
+name: Update GitHub Profile Assets
+
+on:
+  schedule:
+    - cron: "0 3 * * *"
+
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+
+    steps:
+      # ==========================================
+      # Checkout repository
+      # ==========================================
+
+      - name: Checkout
+        uses: actions/checkout@v6
+
+      # ==========================================
+      # Generate Contribution Snake
+      # ==========================================
+
+      - name: Generate Contribution Snake
+        uses: Platane/snk@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+
+      # ==========================================
+      # Generate GitHub Stats
+      # ==========================================
+
+      - name: Generate GitHub Stats
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: stats
+          options: username=${{ github.repository_owner }}&show_icons=true&theme=tokyonight&hide_border=true&count_private=true
+          path: dist/github-stats.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      # ==========================================
+      # Generate Top Languages
+      # ==========================================
+
+      - name: Generate Top Languages
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: top-langs
+          options: username=${{ github.repository_owner }}&layout=compact&theme=tokyonight&hide_border=true&langs_count=8
+          path: dist/top-languages.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      # ==========================================
+      # Deploy everything to output branch
+      # ==========================================
+
+      - name: Deploy Profile Assets
+        uses: peaceiris/actions-gh-pages@v4
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./dist
+          publish_branch: output
+          force_orphan: true
