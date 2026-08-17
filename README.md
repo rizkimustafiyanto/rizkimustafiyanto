@@ -12,7 +12,6 @@ I enjoy working across the entire stack from responsive frontend interfaces and 
   🚀 <strong>Full-Stack Developer</strong>
 </p>
 
-
 ```text
 Frontend  → React / Next.js / Vue / Nuxt.js
 Backend   → Node.js / TypeScript / Go / Laravel
@@ -61,42 +60,40 @@ DevOps    → Docker / Git / GitHub Actions
 
 ---
 
-## 🚀 Featured Project
+## 🌐 Portfolio
 
-### 🌐 Zyramuz
+### Zyramuz — Personal Portfolio
 
-A modern full-stack web platform focused on scalable architecture, clean UI, and efficient dashboard management.
+My personal portfolio website showcasing my **professional experience, projects, technical skills, and development journey**.
 
-#### ✨ Highlights
+The portfolio serves as the central place to explore the applications and systems I have built, along with more details about my experience as a developer.
 
-* 🔐 Authentication & authorization
-* 📊 Dynamic dashboard system
-* 🧩 Reusable UI component architecture
-* 🔌 RESTful API integration
-* 📱 Responsive mobile-first interface
-* 🌙 Dark mode support
-* 🗄️ PostgreSQL database
-* ⚙️ Prisma ORM
-* 🐳 Docker-based development
+#### ✨ Portfolio Highlights
 
-#### 🔗 Project
+* 💼 Professional experience and career background
+* 🚀 Featured projects and applications
+* 🧩 Technical skills and technology stack
+* 🛠️ Project details and responsibilities
+* 📸 Project galleries and screenshots
+* 🔗 Live project demonstrations
+* 📚 Development journey and continuous learning
 
 <p align="center">
-  <a href="https://zyramuz.site" title="Visit Zyramuz">
+  <a href="https://portfolio.zyramuz.site" title="Visit my portfolio">
     <img
       src="https://skillicons.dev/icons?i=nuxtjs"
       width="42"
-      alt="Zyramuz"
+      alt="Zyramuz Portfolio"
     />
   </a>
 </p>
 
 <p align="center">
-  <strong>MLS</strong>
+  <strong>Zyramuz Portfolio</strong>
   <br />
-  <sub>Modern Full-Stack Web Platform</sub>
+  <sub>Personal Portfolio & Developer Showcase</sub>
   <br /><br />
-  <a href="https://zyramuz.site">🌐 Visit Website →</a>
+  <a href="https://portfolio.zyramuz.site">🌐 Visit Portfolio →</a>
 </p>
 
 ---
@@ -137,56 +134,58 @@ A modern full-stack web platform focused on scalable architecture, clean UI, and
 ### 🧩 Frontend
 
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=typescript" width="40" alt="TypeScript" style="vertical-align:middle;" />
+  <img src="https://skillicons.dev/icons?i=typescript" width="40" alt="TypeScript" style="vertical-align:middle;" />
   &nbsp;&nbsp;
-    <img src="https://skillicons.dev/icons?i=react" width="40" alt="React" style="vertical-align:middle;" />
+  <img src="https://skillicons.dev/icons?i=react" width="40" alt="React" style="vertical-align:middle;" />
   &nbsp;&nbsp;
-    <img src="https://skillicons.dev/icons?i=nextjs" width="40" alt="Next.js" style="vertical-align:middle;" />
+  <img src="https://skillicons.dev/icons?i=nextjs" width="40" alt="Next.js" style="vertical-align:middle;" />
   &nbsp;&nbsp;
-    <img src="https://skillicons.dev/icons?i=vue" width="40" alt="Vue.js" style="vertical-align:middle;" />
+  <img src="https://skillicons.dev/icons?i=vue" width="40" alt="Vue.js" style="vertical-align:middle;" />
   &nbsp;&nbsp;
-    <img src="https://skillicons.dev/icons?i=nuxtjs" width="40" alt="Nuxt.js" style="vertical-align:middle;" />
+  <img src="https://skillicons.dev/icons?i=nuxtjs" width="40" alt="Nuxt.js" style="vertical-align:middle;" />
 </p>
 
 ### ⚙️ Backend
 
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=nodejs" width="40" alt="Node.js" style="vertical-align:middle;" />
+  <img src="https://skillicons.dev/icons?i=nodejs" width="40" alt="Node.js" style="vertical-align:middle;" />
   &nbsp;&nbsp;
-    <img src="https://skillicons.dev/icons?i=go" width="40" alt="Go" style="vertical-align:middle;" />
+  <img src="https://skillicons.dev/icons?i=go" width="40" alt="Go" style="vertical-align:middle;" />
   &nbsp;&nbsp;
-    <img src="https://skillicons.dev/icons?i=laravel" width="40" alt="Laravel" style="vertical-align:middle;" />
+  <img src="https://skillicons.dev/icons?i=laravel" width="40" alt="Laravel" style="vertical-align:middle;" />
   &nbsp;&nbsp;
-    <img src="https://skillicons.dev/icons?i=express" width="40" alt="Express.js" style="vertical-align:middle;" />
+  <img src="https://skillicons.dev/icons?i=express" width="40" alt="Express.js" style="vertical-align:middle;" />
 </p>
 
 ### 🗄️ Database & ORM
 
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=postgresql" width="40" alt="PostgreSQL" style="vertical-align:middle;" />
+  <img src="https://skillicons.dev/icons?i=postgresql" width="40" alt="PostgreSQL" style="vertical-align:middle;" />
   &nbsp;&nbsp;
-    <img src="https://skillicons.dev/icons?i=mysql" width="40" alt="MySQL" style="vertical-align:middle;" />
+  <img src="https://skillicons.dev/icons?i=mysql" width="40" alt="MySQL" style="vertical-align:middle;" />
   &nbsp;&nbsp;
-    <img src="https://skillicons.dev/icons?i=prisma" width="40" alt="Prisma" style="vertical-align:middle;" />
+  <img src="https://skillicons.dev/icons?i=prisma" width="40" alt="Prisma" style="vertical-align:middle;" />
 </p>
 
 ### 🐳 DevOps & Tools
 
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=docker" width="40" alt="Docker" style="vertical-align:middle;" />
+  <img src="https://skillicons.dev/icons?i=docker" width="40" alt="Docker" style="vertical-align:middle;" />
   &nbsp;&nbsp;
-    <img src="https://skillicons.dev/icons?i=git" width="40" alt="Git" style="vertical-align:middle;" />
+  <img src="https://skillicons.dev/icons?i=git" width="40" alt="Git" style="vertical-align:middle;" />
   &nbsp;&nbsp;
-    <img src="https://skillicons.dev/icons?i=githubactions" width="40" alt="GitHub Actions" style="vertical-align:middle;" />
+  <img src="https://skillicons.dev/icons?i=githubactions" width="40" alt="GitHub Actions" style="vertical-align:middle;" />
   &nbsp;&nbsp;
-    <img src="https://skillicons.dev/icons?i=vscode" width="40" alt="Visual Studio Code" style="vertical-align:middle;" />
+  <img src="https://skillicons.dev/icons?i=linux" width="40" alt="Linux" style="vertical-align:middle;" />
+  &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=vscode" width="40" alt="Visual Studio Code" style="vertical-align:middle;" />
 </p>
 
 ---
 
 ## 💳 Support My Work
 
-If you find my projects useful and would like to support my work:
+If you find my work useful and would like to support my development journey:
 
 <p align="center">
   <a href="https://www.paypal.me/RizkiMustafiyanto" title="Support me via PayPal">
@@ -209,15 +208,21 @@ If you find my projects useful and would like to support my work:
     alt="GitHub"
   />
   &nbsp;&nbsp;&nbsp;
-  <a href="https://zyramuz.site" title="Website">
+  <a href="https://portfolio.zyramuz.site" title="Portfolio">
     <img
       src="https://cdn.simpleicons.org/googlechrome"
       width="18"
-      alt="Website"
+      alt="Portfolio"
     />
   </a>
 </p>
 
 ---
 
-<p align="center"> <i>Build it. Break it. Learn from it. Build it better.</i> </p> <p align="center"> ⭐ Thanks for visiting my profile! </p>
+<p align="center">
+  <i>Build it. Break it. Learn from it. Build it better.</i>
+</p>
+
+<p align="center">
+  ⭐ Thanks for visiting my profile!
+</p>
